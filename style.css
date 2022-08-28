@@ -1,44 +1,31 @@
 @media only screen and (min-width: 768px) {
-    
-
-
 .header-background {
-    width: 600px;
-    height: 916px;
-    left: 0px;
-    top: 1px;
-    display: flex;
-    flex-direction: row;
-    
-    /* Neutrals/N0 */
-    
-  }
+  width: 600px;
+  height: 916px;
+  left: 0px;
+  top: 1px;
+  display: flex;
+  flex-direction: row;
+}
 
-  
 .m-logo {
-    padding-top: 10px;
-    padding-left: 40px;
-    text-decoration: none;
-    width: 76px;
-    height: 20px;
-    font-family: "poppins", Times, serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 20px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-  
-    /* Primary/B400 */
-  
-    color: #6070ff;
-  
-    /* Inside auto layout */
-  
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+  padding-top: 10px;
+padding-left: 40px;
+text-decoration: none;
+width: 76px;
+height: 20px;
+font-family: "poppins", Times, serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #6070ff;
+flex: none;
+order: 0;
+flex-grow: 0;
   }
 
   .link-right {
