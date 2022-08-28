@@ -335,6 +335,7 @@
 
   .canopli6 {
     list-style-type: none;
+    margin-left: -35px;
   }
 
   .sec3rlink316 {
@@ -350,4 +351,135 @@
     margin-top: 70px;
     margin-left: -45px;
   }
+
+  .row7 {
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    height: 846px;
+    left: 0px;
+    top: 5125px;
+    margin-top: 50px;
+    /* Primary/B400 */
+    
+    background: #6070FF;
+    }
+
+    
+.ro72 {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  background: #6070FF;
+}
+.ro73 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.ro74 {
+  display: flex;
+  flex-direction: column;
+  float: bottom;
+}
+
+.row7 {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 846px;
+  left: 0px;
+  top: 5125px;
+  
+  /* Primary/B400 */
+  
+  background: #6070FF;
+  }
+  
+  .ro72 {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    background: #6070FF;
+  }
+  .ro73 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+  }
+  
+  .ro74 {
+    display: flex;
+    flex-direction: column;
+    float: bottom;
+  }
+
+  .form2 {
+    margin-left: 60px;
+  }
+  .name1 {
+    top: calc(50% - 18px / 2);
+    font-family: "poppins", Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    width: 600px;
+    height: 48px;
+    border-radius: 8px;
+    color: #172b4d;
+  }
+  
+  .em1 {
+    top: calc(50% - 18px / 2);
+    font-family: "poppins", Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    height: 48px;
+    margin-bottom: 20px;
+    width: 600px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    color: #172b4d;
+    border: 1px solid #cfd8dc;
+  }
+  
+  .message1 {
+    left: 1px;
+    right: 1px;
+    margin-bottom: 20px;
+    top: 1px;
+    bottom: 1px;
+    background: #fff;
+    border: 1px solid #cfd8dc;
+    border-radius: 8px;
+    width: 600px;
+    height: 170px;
+  }
+  
+  .head1 {
+    width: 801px;
+    height: 56px;
+    left: -213px;
+    top: 4734px;
+    margin-left: 20px;
+    font-family: "poppins", Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    margin-left: 60px;
+  }
+
   }
