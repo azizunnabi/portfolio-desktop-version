@@ -1,8 +1,9 @@
 
  @media only screen and (min-width: 768px) {
-  body {
+ body {
     width: 1440px;
   }
+
   .header-background {
     width: 600px;
     height: 916px;
@@ -39,7 +40,7 @@
     float: right;
   }
     
-   .header-link {
+  .header-link {
     list-style-type: none;
     text-decoration: none;
   }
@@ -128,7 +129,6 @@
     order: 1;
     letter-spacing: 0.37px;
     flex: none;
-    order: 0;
     flex-grow: 0;
   }
     
@@ -162,6 +162,7 @@
     order: 3;
     flex-grow: 0;
   }
+
   .social-menue {
     list-style: none;
     position: absolute;
@@ -181,7 +182,7 @@
   }
     
   .abd {
-    margin-top:200px;
+    margin-top: 200px;
     margin-left: 100px;
     display: flex;
     flex-direction: row;
@@ -215,7 +216,7 @@
   }
     
   .sec3rlink31{
-    padding-top:37px;
+    padding-top: 37px;
     padding-right: 12px;
     height: 24px;
     display: flex;
@@ -243,7 +244,7 @@
     order: 3;
   }
     
-  .paragraph1{
+  .paragraph1 {
     width: 496px;
     height: 50px;
     font-family: 'Poppins', Times, serif;
@@ -354,26 +355,24 @@
     margin-top: 70px;
     margin-left: -45px;
   }
-.row7 {
-  position: absolute;
-  background-image: url("images/formback.png");
-  background-size: cover;
-  visibility: visible;
-  width: 1440px;
-  height: 846px;
-  left: 0px;
-  
-  /* Primary/B400 */
-  
 
+  .row7 {
+    position: absolute;
+    background-image: url("images/formback.png");
+    background-size: cover;
+    visibility: visible;
+    width: 1440px;
+    height: 846px;
+    left: 0px;
   }
    
   .ro72 {
     width: 100px;
     display: flex;
     flex-direction: column;
-    background: #6070FF;
+    background: #6070ff;
   }
+
   .ro73 {
     width: 600px;
     float: center;
@@ -389,34 +388,24 @@
     height: 27px;
     margin-left: 400px;
     margin-top: 30px;
-    }
+  }
 
   .paragraph2 {
     width: 669px;
     height: 102px;
     margin-left: 437px;
     margin-right: 436px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Times, serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
-    /* or 140% */
-
     text-align: center;
-
-    /* Primary/B50 */
-
-    color: #EBEBFF;
-
-
-    /* Inside auto layout */
-
+    color: #ebebff;
     flex: none;
     order: 1;
     flex-grow: 0;
-    
- }
+  }
 
   .e6 {
     left: 106.53px;
@@ -432,19 +421,18 @@
   }
 
   .r66 {
-    margin-left:200px;
-    margin-top:100px;
+    margin-left: 200px;
+    margin-top: 100px;
     width: 20%;
     height: 20%;
   }
 
   .r666 {
-    margin-left:160px;
-    margin-top:150px;
+    margin-left: 160px;
+    margin-top: 150px;
     width: 10%;
     height: 10%;
   }
-  
   
   .ro74 {
     display: flex;
@@ -453,14 +441,12 @@
     float: right;
   }
 
-  .ro72 {
-    width: 420px;
-    }
   .form2 {
     padding-left: 497px;
     padding-right: 496px;
     width: 447px;
   }
+
   .name1 {
     top: calc(50% - 18px / 2);
     font-family: "poppins", Times, serif;
@@ -511,7 +497,7 @@
     width: 801px;
     height: 56px;
     margin-left: 660px;
-    font-family: 'Poppins';
+    font-family: "poppins", Times, serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -519,14 +505,10 @@
     display: flex;
     align-items: center;
     text-align: center;
-    color: #FFFFFF;
+    color: #fff;
     flex: none;
     order: 0;
     flex-grow: 0;
-  }
-
-  .r66 {
-    margin-top:100px;
   }
 
   .sub {
@@ -547,7 +529,6 @@
     line-height: 24px;
     display: flex;
     align-items: center;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #6070ff;
     flex: none;
@@ -574,15 +555,17 @@
     background-size: cover;
     visibility: visible; 
   }
+
   }
 
   
   /* @media only screen and (max-width: 600px) { */
-    
-   @media only screen and (max-width: 768px) { 
+   
+@media only screen and (max-width: 768px) { 
+
   body {
     width: 100% auto;
-    background-color:bluel;
+    background-color: bluel;
   }
    
   nav {
@@ -605,6 +588,7 @@
   .inline {
     text-decoration: none;
   }
+
   .m-logo {
     padding-top: 10px;
     padding-left: 1px;
@@ -657,7 +641,6 @@
     order: 1;
     letter-spacing: 0.37px;
     flex: none;
-    order: 0;
     flex-grow: 0;
   }
 
@@ -707,7 +690,7 @@
   }
 
   .abd {
-    margin-top:100px;
+    margin-top: 100px;
     width: 100%;
     margin-left: 1px;
     display: flex;
@@ -732,8 +715,8 @@
     order: 1;
   }
 
-  .sec3rlink31{
-    padding-top:37px;
+  .sec3rlink31 {
+    padding-top: 37px;
     padding-right: 12px;
     height: 24px;
     display: flex;
@@ -748,7 +731,7 @@
     flex-grow: 0;
   }
 
-  .paragraph1{
+  .paragraph1 {
     width: 100%;
     height: 50px;
     font-family: 'Poppins', Times, serif;
@@ -833,39 +816,35 @@
     width: 1005;
     height: 846px;
     left: 0px;
-    
-    /* Primary/B400 */
-    
-  
-    }
+  }
 
-    .ro73 {
-      width: 100%;
-      float: center;
-    }
+  .ro73 {
+    width: 100%;
+    float: center;
+  }
 
-    .paragraph2 {
-      width: 100%;
-      height: 102px;
-      margin-left: 1px;
-      margin-right: 1px;
-      font-family: 'Poppins';
-      font-style: normal;
-      font-weight: 400;
-      font-size: 20px;
-      line-height: 28px;
-      text-align: center;
-      color: #EBEBFF;
-      flex: none;
-      order: 1;
-      flex-grow: 0;
-   }
+  .paragraph2 {
+    width: 100%;
+    height: 102px;
+    margin-left: 1px;
+    margin-right: 1px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #EBEBFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
 
-   .head1 {
+  .head1 {
     width: 100%;
     height: 56px;
     margin-left: 1px;
-    font-family: 'Poppins';
+    font-family: "poppins", Times, serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -873,7 +852,7 @@
     display: flex;
     align-items: center;
     text-align: center;
-    color: #FFFFFF;
+    color: #fff;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -930,6 +909,7 @@
     width: 100%;
     height: 170px;
   }
+
   .sub {
     width: 170px;
     text-align: center;
@@ -948,7 +928,6 @@
     line-height: 24px;
     display: flex;
     align-items: center;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #6070ff;
     flex: none;
@@ -983,4 +962,5 @@
     height: 448px;
     top: 24px;
   }
+  
   }
