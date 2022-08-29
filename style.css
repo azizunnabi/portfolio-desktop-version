@@ -270,7 +270,7 @@
     flex: none;
     order: 4;
     flex-grow: 0;
-  }   
+  }
 
   .bb {
     box-sizing: border-box;
@@ -553,16 +553,14 @@
     background-image: url("images/hb.png");
     background-size: cover;
     visibility: visible;
-
   }
 }
 
 /* @media only screen and (max-width: 600px) { */
 @media only screen and (max-width: 768px) { 
 
-body {
+  body {
     width: 100% auto;
-    background-color: bluel;
   }
 
   nav {
@@ -613,7 +611,6 @@ body {
     background-image: url("images/hb.png");
     background-size: cover;
     visibility: visible; 
-
   }
 
   .section2 {
