@@ -1,6 +1,6 @@
 
- @media only screen and (min-width: 768px) {
- body {
+@media only screen and (min-width: 768px) {
+  body {
     width: 1440px;
   }
 
@@ -12,7 +12,7 @@
     display: flex;
     flex-direction: row;
   }
-    
+
   .m-logo {
     padding-top: 10px;
     padding-left: 40px;
@@ -105,7 +105,6 @@
     transform: rotate(-46.14deg);
   }
     
-    /* section 2 started */
   .section2 {
     display: flex;
     flex-direction: column;
@@ -114,9 +113,8 @@
     width: 920px;
     height: auto;
   }
-    
+
   .h23 {
-    order: 1;
     width: 920px;
     height: 122px;
     font-family: 'Poppins', Times, serif;
@@ -131,7 +129,7 @@
     flex: none;
     flex-grow: 0;
   }
-    
+
   .paragraph {
     width: 920px;
     height: 98px;
@@ -215,7 +213,7 @@
     order: 1;
   }
     
-  .sec3rlink31{
+  .sec3rlink31 {
     padding-top: 37px;
     padding-right: 12px;
     height: 24px;
@@ -273,7 +271,7 @@
     order: 4;
     flex-grow: 0;
   }   
-    
+
   .bb {
     box-sizing: border-box;
     display: flex;
@@ -294,7 +292,7 @@
     display: flex;
     flex-direction: row;
     margin-top: 100px;
-    margin-left:100px;
+    margin-left: 100px;
   }
 
   .row4 {
@@ -303,6 +301,7 @@
     margin-top: 100px;
     margin-left: 100px;
   }
+
   .r4left {
     display: flex;
     flex-direction: row;
@@ -363,7 +362,7 @@
     visibility: visible;
     width: 1440px;
     height: 846px;
-    left: 0px;
+    left: 1px;
   }
    
   .ro72 {
@@ -553,17 +552,16 @@
     margin-top: 100px;
     background-image: url("images/hb.png");
     background-size: cover;
-    visibility: visible; 
-  }
+    visibility: visible;
 
   }
+  
+ }
 
   
-  /* @media only screen and (max-width: 600px) { */
-   
+/* @media only screen and (max-width: 600px) { */
 @media only screen and (max-width: 768px) { 
-
-  body {
+body {
     width: 100% auto;
     background-color: bluel;
   }
@@ -616,6 +614,7 @@
     background-image: url("images/hb.png");
     background-size: cover;
     visibility: visible; 
+
   }
 
   .section2 {
@@ -628,7 +627,6 @@
   }
 
   .h23 {
-    order: 1;
     width: 100%;
     height: 122px;
     font-family: 'Poppins', Times, serif;
@@ -815,7 +813,7 @@
     visibility: visible;
     width: 1005;
     height: 846px;
-    left: 0px;
+    left: 1px;
   }
 
   .ro73 {
@@ -828,13 +826,13 @@
     height: 102px;
     margin-left: 1px;
     margin-right: 1px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Times, serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     text-align: center;
-    color: #EBEBFF;
+    color: #ebebff;
     flex: none;
     order: 1;
     flex-grow: 0;
@@ -962,5 +960,4 @@
     height: 448px;
     top: 24px;
   }
-  
-  }
+ }
