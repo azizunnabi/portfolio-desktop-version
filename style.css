@@ -32,25 +32,25 @@
     order: 0;
     flex-grow: 0;
   }
-    
+
   .link-right {
     margin-top: -30px;
     text-decoration: none;
     list-style-type: none;
     float: right;
   }
-    
+
   .header-link {
     list-style-type: none;
     text-decoration: none;
   }
-    
+
   .section1 {
     margin-top: 100px;
     display: flex;
     flex-direction: row;
   }
-    
+
   .l1 {
     position: absolute;
     width: 80.48px;
@@ -66,7 +66,7 @@
     display: flex;
     flex-direction: row;
   }
-    
+
   .l3 {
     position: absolute;
     width: 23px;
@@ -75,7 +75,7 @@
     top: 257px;
     background: #ebebff;
   }
-      
+
   .l4 {
     position: absolute;
     margin-bottom: 40px;
@@ -86,7 +86,7 @@
     background: #ebebff;
     transform: rotate(-30deg);
   }
-    
+
   .l5 {
     position: absolute;
     width: 224px;
@@ -94,7 +94,7 @@
     left: 1208px;
     top: 192px;
   }
-    
+
   .l6 {
     position: absolute;
     width: 108.67px;
@@ -104,7 +104,7 @@
     background: #ebebff;
     transform: rotate(-46.14deg);
   }
-    
+
   .section2 {
     display: flex;
     flex-direction: column;
@@ -145,7 +145,7 @@
     order: 2;
     flex-grow: 0;
   }
-    
+
   .ets {
     width: 117px;
     height: 24px;
@@ -170,22 +170,22 @@
     margin-top: 300px;
     margin-left: -45px;
   }
-    
+
   .lsls {
     padding-right: 20px;
   }
-    
+
   .sec2bott {
     margin-top: 100px;
   }
-    
+
   .abd {
     margin-top: 200px;
     margin-left: 100px;
     display: flex;
     flex-direction: row;
   }
-    
+
   .left {
     display: flex;
     flex-direction: row;
@@ -194,7 +194,7 @@
     left: 24px;
     top: 24px;
   }
-      
+
   .right {
     display: flex;
     padding-left: 50px;
@@ -203,7 +203,7 @@
     height: 448px;
     top: 24px;
   }
-    
+
   .canopli {
     list-style-type: none;
     display: flex;
@@ -212,7 +212,7 @@
     margin-left: -37px;
     order: 1;
   }
-    
+
   .sec3rlink31 {
     padding-top: 37px;
     padding-right: 12px;
@@ -228,20 +228,20 @@
     flex: none;
     flex-grow: 0;
   }
-    
+
   .sec3p {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 60px;
     color: #c1c7d0;
   }
-    
+
   .canopli2 {
     list-style-type: none;
     margin-left: -37px;
     order: 3;
   }
-    
+
   .paragraph1 {
     width: 496px;
     height: 50px;
@@ -255,7 +255,7 @@
     order: 2;
     flex-grow: 0;
   }
-    
+
   .sec3rlink32 {
     width: 75px;
     height: 24px;
@@ -310,7 +310,7 @@
     left: 24px;
     top: 24px;
   }
-  
+
   .r4right {
     display: flex;
     flex-direction: column;
@@ -364,7 +364,7 @@
     height: 846px;
     left: 1px;
   }
-   
+
   .ro72 {
     width: 100px;
     display: flex;
@@ -432,7 +432,7 @@
     width: 10%;
     height: 10%;
   }
-  
+
   .ro74 {
     display: flex;
     flex-direction: column;
@@ -461,7 +461,7 @@
     border-radius: 8px;
     color: #172b4d;
   }
-  
+
   .em1 {
     top: calc(50% - 18px / 2);
     font-family: "poppins", Times, serif;
@@ -478,7 +478,7 @@
     color: #172b4d;
     border: 1px solid #cfd8dc;
   }
-  
+
   .message1 {
     left: 1px;
     right: 1px;
@@ -491,7 +491,7 @@
     width: 600px;
     height: 170px;
   }
-  
+
   .head1 {
     width: 801px;
     height: 56px;
@@ -534,13 +534,13 @@
     order: 0;
     flex-grow: 0;
   }
-  
+
   .sub:hover {
     border: 1px solid #cfd8dc;
     width: 109px;
     height: 25px;
   }
-  
+
   .sub:active {
     border: 1px solid #cfd8dc;
     width: 110px;
@@ -555,17 +555,16 @@
     visibility: visible;
 
   }
-  
- }
+}
 
-  
 /* @media only screen and (max-width: 600px) { */
 @media only screen and (max-width: 768px) { 
+
 body {
     width: 100% auto;
     background-color: bluel;
   }
-   
+
   nav {
     width: 100% auto;
   }
@@ -877,7 +876,7 @@ body {
     border-radius: 8px;
     color: #172b4d;
   }
-  
+
   .em1 {
     top: calc(50% - 18px / 2);
     font-family: "poppins", Times, serif;
@@ -894,7 +893,7 @@ body {
     color: #172b4d;
     border: 1px solid #cfd8dc;
   }
-  
+
   .message1 {
     left: 1px;
     right: 1px;
@@ -932,13 +931,13 @@ body {
     order: 0;
     flex-grow: 0;
   }
-  
+
   .sub:hover {
     border: 1px solid #cfd8dc;
     height: 25px;
     width: 175px;
   }
-  
+
   .sub:active {
     border: 1px solid #cfd8dc;
     width: 175px;
@@ -960,4 +959,4 @@ body {
     height: 448px;
     top: 24px;
   }
- }
+}
