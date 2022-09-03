@@ -213,6 +213,8 @@
     flex-direction: row;
     background: #FFFFFF;
     border-radius: 24px;
+    height: 500px;
+    border: 1px solid #DFE1E6
   }
 
   .left {
@@ -799,6 +801,8 @@
     display: flex;
     flex-direction: column;
     background: #FFFFFF;
+    height: 500px;
+    border: 1px solid #DFE1E6
     
   }
 
