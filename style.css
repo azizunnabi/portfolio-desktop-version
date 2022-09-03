@@ -2,7 +2,6 @@
 @media only screen and (min-width: 768px) {
   body {
     width: 1440px;
-
   }
 
   .header-background {
@@ -211,10 +210,10 @@
     margin-left: 100px;
     display: flex;
     flex-direction: row;
-    background: #FFFFFF;
+    background: #fff;
     border-radius: 24px;
     height: 500px;
-    border: 1px solid #DFE1E6
+    border: 1px solid #dfe1e6;
   }
 
   .left {
@@ -224,7 +223,7 @@
     height: 448px;
     left: 24px;
     top: 24px;
-    background: #FFFFFF;
+    background: #fff;
   }
 
   .right {
@@ -276,7 +275,7 @@
   .paragraph1 {
     width: 447px;
     height: 102px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Times, serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -297,7 +296,7 @@
     font-weight: 500;
     font-size: 18px;
     line-height: 24px;
-    background: #EBEBFF;
+    background: #ebebff;
     border-radius: 8px;
     color: #6070ff;
     flex: none;
@@ -307,10 +306,6 @@
 
   .abdd {
     margin-top: 5px;
-  }
-
-  .abd {
-    height: 240px;
   }
 
   .abcr {
@@ -355,8 +350,8 @@
     height: 500px;
     margin-top: 100px;
     margin-left: 100px;
-    background: #FFFFFF;
-    border: 1px solid #DFE1E6;
+    background: #fff;
+    border: 1px solid #dfe1e6;
     border-radius: 24px;
   }
 
@@ -386,8 +381,8 @@
     margin-top: 100px;
     height: 500px;
     margin-left: 100px;
-    background: #FFFFFF;
-    border: 1px solid #DFE1E6;
+    background: #fff;
+    border: 1px solid #dfe1e6;
     border-radius: 24px;
   }
 
@@ -408,14 +403,14 @@
   .tonic {
     width: 447px;
     height: 114px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', Times, serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     line-height: 52px;
     display: flex;
     align-items: center;
-    color: #091E42;
+    color: #091e42;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -718,6 +713,7 @@
   .row5 {
     margin-top: -50px;
   }
+
   .h23 {
     width: 100%;
     height: 122px;
@@ -800,10 +796,9 @@
     margin-left: 1px;
     display: flex;
     flex-direction: column;
-    background: #FFFFFF;
+    background: #fff;
     height: 500px;
-    border: 1px solid #DFE1E6
-    
+    border: 1px solid #dfe1e6;
   }
 
   .right {
@@ -865,7 +860,7 @@
     font-size: 18px;
     line-height: 24px;
     color: #6070ff;
-    background: #EBEBFF;
+    background: #ebebff;
     border-radius: 8px;
     flex: none;
     order: 4;
